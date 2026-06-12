@@ -9,8 +9,9 @@ project/
 ├── sentiment_trader_analysis.ipynb   # Main analysis notebook
 ├── README.md
 ├── requirements.txt
+├── Summary Insights.pdf
 ├── data/
-│   ├── sentiment.csv                 # BTC Fear & Greed Index
+│   ├── fear_greed_index.csv          # BTC Fear & Greed Index
 │   └── historical_data.csv           # Hyperliquid trade history
 └── outputs/
     ├── charts/                       # All generated PNG charts
